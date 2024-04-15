@@ -1,7 +1,7 @@
 # Smart-Mirror
 
 # Overview
-Welcome to the Smart Mirror project, a culmination of efforts from the Embedded Systems term last year. This project aims to provide students and enthusiasts with a comprehensive guide to creating a feature-rich smart mirror using simple components. The mirror displays real-time information such as weather updates, news headlines, and your calendar, tailoring the experience to your preferences.
+Smart Mirror project, a culmination of efforts from the Embedded Systems term last year. This project aims to provide students and enthusiasts with a comprehensive guide to creating a feature-rich smart mirror using simple components. The mirror displays real-time information such as weather updates, news headlines, and your calendar, tailoring the experience to your preferences.
 
 # Features
 1-Respond to touch using IR FRAME
