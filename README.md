@@ -4,17 +4,12 @@
 Welcome to the Smart Mirror project, a culmination of efforts from the Embedded Systems term last year. This project aims to provide students and enthusiasts with a comprehensive guide to creating a feature-rich smart mirror using simple components. The mirror displays real-time information such as weather updates, news headlines, and your calendar, tailoring the experience to your preferences.
 
 # Features
-## -Respond to touch using IR FRAME
-
-## -Voice response powered by Alexa Assistant
-
-## -Weather Information: Stay informed about the current weather conditions in your city. The smart mirror fetches real-time data to help you plan your day.
-
-## -News Headlines: Get the latest news headlines at a glance. Mirror displays curated news snippets, keeping you updated on the go.
-
-## -Calendar Integration: Sync your calendar with Smart Mirror to view upcoming events, appointments, and important dates.
-
-## -Motivational phrases, Bluetooth connection (play YouTube music clip, etc.)
+1-Respond to touch using IR FRAME
+2-Voice response powered by Alexa Assistant
+3-Weather Information: Stay informed about the current weather conditions in your city. The smart mirror fetches real-time data to help you plan your day.
+4-News Headlines: Get the latest news headlines at a glance. Mirror displays curated news snippets, keeping you updated on the go.
+5-Calendar Integration: Sync your calendar with Smart Mirror to view upcoming events, appointments, and important dates.
+6-Motivational phrases, Bluetooth connection (play YouTube music clip, etc.)
 Show grocery needs and recipes
 
 # Components
